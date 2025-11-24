@@ -1,0 +1,42 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#quant-cookies {
+    text-align: center;
+}
+
+picture {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#div-construcoes {
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    padding: 0.5rem;
+}
+
+#img-cursor {
+    width: 8rem;
+    margin: 1rem;
+
+    border-style: solid;
+    border-color: gray;
+}
+
+#img-vovo {
+    width: 8rem;
+    margin: 1rem;
+
+    border-style: solid;
+    border-color: gray;
+}
+
+#img-cookie {
+    width: 15rem;
+}
